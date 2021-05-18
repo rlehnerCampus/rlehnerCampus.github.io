@@ -16,4 +16,4 @@
 - Filled sights.html
 - Created Virtual Tour Site
 - Completed imprint
-- 
+- Validated source code 
